@@ -1,5 +1,5 @@
 {
-  "name": "swoft/redis",
+  "name": "seagm-swoft/redis",
   "type": "library",
   "version": "v2.0.11",
   "keywords": [
@@ -14,8 +14,8 @@
   "homepage": "https://github.com/swoft-cloud/swoft-redis",
   "license": "Apache-2.0",
   "require": {
-    "swoft/framework": "~2.0.0",
-    "swoft/connection-pool": "~2.0.0"
+    "seagm-swoft/framework": "~2.0.0",
+    "seagm-swoft/connection-pool": "~2.0.0"
   },
   "autoload": {
     "classmap": [
